@@ -1,6 +1,6 @@
 # loveliness
 
-> A Vue.js project
+> We are final project
 
 ## Build Setup
 
