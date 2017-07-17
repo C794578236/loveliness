@@ -1,6 +1,6 @@
 # loveliness
 
-> We are final project
+> We are final project!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ## Build Setup
 
